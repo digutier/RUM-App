@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059602474680",
+    "project_id": "rumapp-1",
+    "storage_bucket": "rumapp-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059602474680:android:719cff2321a9b821b4f64d",
+        "android_client_info": {
+          "package_name": "cl.jfollert.rum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059602474680-333hpdjs98912bg7ochh1ion9uu932a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxY9tAuzqZkDn_ZqlJ7a9AKbKoWBRlwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059602474680-333hpdjs98912bg7ochh1ion9uu932a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
